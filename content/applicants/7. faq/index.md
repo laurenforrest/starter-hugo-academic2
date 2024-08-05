@@ -1,5 +1,5 @@
 ---
-title: 7. FAQs for prospective PhD applicants
+title: 7. FAQs and pro tips for prospective PhD applicants
 summary: Please read!
 tags: []
 date: '2023-07-28T00:00:00Z'
@@ -45,7 +45,7 @@ Whether you have publications or not, I will be looking for students whose state
 
 **6. Do I need to take the GRE?** Nope. [UO does not require the GRE.](https://naturalsciences.uoregon.edu/psychology/apply/graduate-admissions#FAQ-doctoral-students)
 
-**7. Pro tips.** There are lots of resources out there to help guide you through effectively applying to clinical psychology PhD programs. Here are a few:
+**7. Pro tip re. application how-tos.** There are lots of resources out there to help guide you through effectively applying to clinical psychology PhD programs. Here are a few:
 
 - [Mitch Prinstein's Uncensored Advice](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
 
