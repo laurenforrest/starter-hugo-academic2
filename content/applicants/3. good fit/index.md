@@ -9,7 +9,7 @@ show_breadcrumb: false
 
 
 ---
-This list is not exhaustive, and sometimes “fit” is not entirely quantifiable (much to my chagrin). With those caveats aside, some general indicators of good fit might be:
+This list is not exhaustive, and sometimes “fit” is not entirely quantifiable (much to my chagrin). With those caveats aside, some general indicators of good fit are below. However, please note that my review process is holistic. Competitive applicants don't have to have all of the indicators below. If you have most of the below indicators, I'd encourage you to apply!
 
 **1.  You want a research career focused on eating disorders and/or suicide.** i.e., you want to publish papers, you want to be savyy with stats/methods, etc., and you want your expertise to be in eating disorders and/or suicide.
 
@@ -35,4 +35,4 @@ Examples of stats-savviness include (but are not limited to):
 
 **6.  You want to do this work because you care about people and want to contribute to making the world a better place.** 
 
-**7.  You care about reducing health inequities.**
+**7.  You care about reducing health inequities.** I am by no means an expert on health inequities or disparities. But as I continue growing and learning, I'm realizing more and more just how far clinical psychological science (and society more broadly) has to go in advancing diversity, equity, and inclusion. My research is increasingly trying to understand and represent the experiences of groups who have been excluded from research, with a specific current focus on suicidal thoughts and behaviors among sexual minority individuals.  
