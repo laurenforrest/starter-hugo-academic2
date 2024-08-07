@@ -15,9 +15,9 @@ This list is not exhaustive, and sometimes “fit” is not entirely quantifiabl
 
 **2.  You have relevant experience**. For example, you completed a senior thesis, worked as a post-bacc research coordinator, OR you have experience doing other things that required systematic adherence to a procedure or protocol (e.g., you did computer coding, you managed an extremely difficult scheduling system, etc.)
 
-**3.  You are already savvy with stats and want to get even more savvy, and you want to apply your stats skills to topics like suicide and/or eating disorders.** Stats interests and/or skills are especially desirable, given the intensive longitudinal data I’m currently collecting and plan to collect in the future and the big datasets I'm analyzing. If you have these interests and/or skills, please highlight them in your personal statement!
+**3.  You are already savvy with stats and want to get even more savvy, and you want to apply your stats skills to topics like suicide and/or eating disorders.** Stats interests and/or skills are especially desirable, given the intensive longitudinal data I’m currently collecting and plan to collect in the future and the big datasets I'm analyzing. If you have these interests and/or skills, please highlight them in your statement of purpose!
 
-Examples of stats-savviness include (but are not limited to):
+Examples of stats savviness include (but are not limited to):
 - using R
 - data wrangling and management
 - writing and using syntax
@@ -37,4 +37,4 @@ Examples of stats-savviness include (but are not limited to):
 
 **7.  You care about reducing health inequities.** I am by no means an expert on health inequities or disparities. But as I continue growing and learning, I'm realizing more and more just how far clinical psychological science (and society more broadly) has to go in advancing diversity, equity, and inclusion. My research is increasingly trying to understand and represent the experiences of groups who have been excluded from research, with a specific current focus on suicidal thoughts and behaviors among sexual minority individuals.
 
-**8. You're a go-getter and you go over and above.** I am meticulous, conscientious, and I like pushing myself to do challenging things. I work well with people who approach their work similarly. For example, I read and reread drafts numerous times. I tinker with figures 20+ times until they're conveying exactly what I want them to convey. I applied for grants early in grad school and as faculty, even when the grants were intimidating (some still are!). When I don't know the answer to something, in many cases I try to figure it out myself before asking someone what the answer is. 
+**8. You're a go-getter and you go over and above.** I am meticulous, conscientious, and I like pushing myself to do challenging things. I work well with people who approach their work similarly. For example, I read and reread drafts numerous times. I tinker with figures 20+ times until they're conveying exactly what I want them to convey. I applied for grants early in grad school and as faculty, even when the grants were intimidating (some still are!). When I don't know the answer to something, in many cases I try to figure out the answer by myself before asking someone what the answer is. 
