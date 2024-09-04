@@ -70,8 +70,8 @@ sections:
           tag: PhD students
         - name: Staff
           tag: Staff
-        -name: Alumni
-         tag: Alumni
+        - name: Alumni
+          tag: Alumni
       default_button_index: 0
       title: Research Team
       filters:
