@@ -1,8 +1,8 @@
 ---
 title: Sarah Hauryski
-summary: Research coordinator, Penn State College of Medicine
+summary: Psychology graduate student, University of Minnesota
 tags: 
-- Staff
+- Alumni
 date: '2023-07-27T00:00:00Z'
 pager: true
 share: false
@@ -10,14 +10,12 @@ share: false
 ---
 
 
-Sarah is my lab's research coordinator at Penn State College of Medicine. She graduated from Penn State in 2019 with a BS in Statistics. Sarah plans to apply to quantitative and clinical psychology PhD programs for Fall 2024. She is particularly interested in using data to inform real-world psychopathology conceptualization, treatment and prevention, especially for people in underserved communities. 
+Sarah was my lab's research coordinator at Penn State College of Medicine. She is currently a graduate student in Personality, Individual Differences, and Behavior Genetics at the University of Minnesota. She is interested in using data to inform real-world psychopathology conceptualization, treatment and prevention, especially for people in underserved communities. 
 
 
 **Sarah's papers and projects in my lab include:**
 
-***Hauryski, S.***, Babinski, D., Waschbusch, D., & **Forrest, L. N.** (in prep). Polypharmacy in a large, nationwide cohort in adults with borderline personality disorder.
-
-Babinski, D., ***Hauryski, S.***, Waschbusch, D., & **Forrest, L. N.** (in prep). Polypharmacy in a large, nationwide cohort in adolescents with borderline personality disorder.
+***Hauryski, S.***, Potts, A., Swigart, A., Babinski, D., Waschbusch, D., & **Forrest, L. N.** (2024). Characterizing psychopharmacological prescribing practices in a large cohort of adolescents with borderline personality disorder. *Borderline Personality Disorder and Emotion Dysregulation, 11*(17).
 
 Diaz, A., ***Hauryski, S.***, Waschbusch, D., & **Forrest, L. N.** (in prep). Comparison of fluoxetine vs. duloxetine for the treatment of comorbid major depressive disorder and generalized anxiety disorder in pediatric patients.
 
