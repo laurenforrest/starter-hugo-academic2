@@ -1,6 +1,6 @@
 ---
 title: Sarah Hauryski
-summary: Psychology graduate student, University of Minnesota
+summary: Psychology PhD student, University of Minnesota
 tags: 
 - Alumni
 date: '2023-07-27T00:00:00Z'
