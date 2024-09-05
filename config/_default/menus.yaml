@@ -17,12 +17,12 @@ main:
     weight: 40
   - name: UO PhD students
     identifier: "UO PhD students"
-    url: 'team/#students'
+    url: '#students'
     parent: "Research Team"
     weight: 1
   - name: Affiliated PhD students
     identifier: "Affiliated PhD students"
-    url: 'team/#affiliated'
+    url: '#affiliated'
     parent: "Research Team"
     weight: 2
   - name: 2025 Applicants
