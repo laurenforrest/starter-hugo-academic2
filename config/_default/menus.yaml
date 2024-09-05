@@ -13,6 +13,7 @@ main:
     weight: 30
   - name: Research Team
     identifer: "Research Team"
+    pageRef: team
     url: '#team'
     weight: 40
   - name: UO PhD students
