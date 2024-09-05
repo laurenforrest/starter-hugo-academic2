@@ -9,7 +9,7 @@ share: false
 
 ---
 
-Ayla is a fourth-year clinical psychology PhD student at Hofstra University. Ayla’s research focuses on (1) bridging the gap between eating disorder research and practice by examining clinicians’ experiences implementing empirically supported treatments in real-world settings and (2) examining shared mechanisms underlying eating disorders and self injurious thoughts and behaviors. 
+Ayla is a fifth-year clinical psychology PhD student at Hofstra University, who is currently on internship at the DC VA. Ayla’s research focuses on (1) bridging the gap between eating disorder research and practice by examining clinicians’ experiences implementing empirically supported treatments in real-world settings and (2) examining shared mechanisms underlying eating disorders and self injurious thoughts and behaviors. 
 
 Ayla and I began working together after being matched through the Academy for Eating Disorders' Early Career Special Interest Group Mentee-Mentor program. We were matched in 2021 and have worked together ever since!
 
