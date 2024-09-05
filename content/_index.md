@@ -70,7 +70,7 @@ sections:
           tag: UO team
         - name: Affiliates
           tag: Affiliates
-      default_button_index: UO team
+      default_button_index: Affiliates
       title: Research Team
       filters:
         folders:
