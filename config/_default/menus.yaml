@@ -16,10 +16,10 @@ main:
     pageRef: team
     url: '#team'
     weight: 40
-  - name: UO PhD students
-    identifier: "UO PhD students"
-    pageRef: /team/students
-    url: 'team/students'
+  - name: UO PhD students and staff
+    identifier: "UO PhD students and staff"
+    pageRef: /team/oregon
+    url: 'team/oregon'
     parent: "Research Team"
     weight: 1
   - name: Affiliated PhD students
