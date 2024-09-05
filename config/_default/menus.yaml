@@ -16,17 +16,6 @@ main:
     pageRef: oregon
     url: '#team'
     weight: 40
-  - name: Research Team
-    id: oregon
-    pageRef: oregon
-    parent: "Research Team"
-    weight: 1
-  - name: Affiliated PhD students
-    identifier: "Affiliated PhD students"
-    pageRef: /team/affiliated
-    url: 'team/affiliated'
-    parent: "Research Team"
-    weight: 2
   - name: 2025 Applicants
     url: '#applicants'
     weight: 45
