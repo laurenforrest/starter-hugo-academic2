@@ -13,7 +13,7 @@ main:
     weight: 30
   - name: Research Team
     id: oregon
-    pageRef: /team/oregon
+    pageRef: oregon
     url: '#team'
     weight: 40
   - name: Affiliated PhD students
