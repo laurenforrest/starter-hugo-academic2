@@ -12,7 +12,7 @@ main:
     url: '#current'
     weight: 30
   - name: Research Team
-    identifer: "Research Team"
+    id: oregon
     pageRef: /team/oregon
     url: '#team'
     weight: 40
