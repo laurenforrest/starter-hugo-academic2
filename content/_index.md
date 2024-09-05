@@ -60,7 +60,7 @@ sections:
       flip_alt_rows: true
 
   - block: portfolio
-    id: team
+    id: team/students
     content:
       sort_ascending: true
       #buttons:
@@ -73,10 +73,10 @@ sections:
       #  - name: Alumni
       #    tag: Alumni
       #default_button_index: 0
-      title: Research Team
+      title: UO students and staff
       filters:
         folders:
-          - team
+          - team/students
     design:
       columns: '1'
       view: masonry
