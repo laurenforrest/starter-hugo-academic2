@@ -11,18 +11,18 @@ main:
   - name: Current Projects
     url: '#current'
     weight: 30
-  - identifer = "team"
-    name: Research Team
+  - name: Research Team
+    identifer: "team"
     url: '#team'
     weight: 40
-  - identifier = "students"
-    name: UO PhD students
-    url: "/students"
+  - name: UO PhD students
+    identifier: "students"
+    url: "team/#students"
     parent: "team"
     weight: 1
-  - identifier = "affiliated"
-    name: Affiliated PhD students
-    url: "/affiliated"
+  - name: Affiliated PhD students
+    identifier: "affiliated"
+    url: "team/#affiliated"
     parent: "team"
     weight: 2
   - name: 2025 Applicants
