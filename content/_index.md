@@ -77,8 +77,6 @@ sections:
       filters:
         folders:
           - team
-            - affiliated
-            - students
     design:
       columns: '1'
       view: masonry
