@@ -63,20 +63,21 @@ sections:
     id: team
     content:
       sort_ascending: true
-      buttons:
-        - name: All
-          tag: '*'
-        - name: PhD students
-          tag: PhD students
-        - name: Staff
-          tag: Staff
-        - name: Alumni
-          tag: Alumni
-      default_button_index: 0
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: PhD students
+      #    tag: PhD students
+      #  - name: Staff
+      #    tag: Staff
+      #  - name: Alumni
+      #    tag: Alumni
+      #default_button_index: 0
       title: Research Team
       filters:
         folders:
-          - team
+          - team/affiliated
+          - team/students
     design:
       columns: '1'
       view: masonry
