@@ -2,7 +2,6 @@
 title: Ayla Gioia
 summary: Clinical psychology PhD student, Hofstra University
 tags: 
-- PhD students
 date: '2023-07-25T00:00:00Z'
 pager: true
 share: false

@@ -2,7 +2,6 @@
 title: Devon Peterkin
 summary: Clinical psychology PhD student, University of Oregon
 tags: 
-- PhD students
 date: '2024-09-04T00:00:00Z'
 pager: true
 share: false
