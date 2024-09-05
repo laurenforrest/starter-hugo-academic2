@@ -63,14 +63,14 @@ sections:
     id: team
     content:
       sort_ascending: true
-      #buttons:
-      #  - name: All
-      #    tag: '*'
-      #  - name: UO team
-      #    tag: UO team
-      #  - name: Affiliates
-      #    tag: Affiliates
-      #default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: UO team
+          tag: UO team
+        - name: Affiliate
+          tag: Affiliate
+      default_button_index: 0
       title: Research Team
       filters:
         folders:

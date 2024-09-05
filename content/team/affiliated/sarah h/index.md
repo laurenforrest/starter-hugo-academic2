@@ -1,7 +1,8 @@
 ---
 title: Sarah Hauryski
 summary: Psychology PhD student, University of Minnesota
-tags: []
+tags: 
+  - Affiliate
 date: '2023-07-27T00:00:00Z'
 pager: true
 share: false
