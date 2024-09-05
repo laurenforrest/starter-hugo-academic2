@@ -76,8 +76,7 @@ sections:
       title: Research Team
       filters:
         folders:
-          - team/affiliated
-          - team/students
+          - team
     design:
       columns: '1'
       view: masonry
