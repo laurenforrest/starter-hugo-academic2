@@ -1,5 +1,5 @@
 ---
-title: Devon Peterkin
+title: Devon Peterkin, MA
 summary: Clinical psychology PhD student, University of Oregon
 tags: 
   - UO team
