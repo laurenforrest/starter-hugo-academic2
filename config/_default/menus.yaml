@@ -12,22 +12,22 @@ main:
     url: '#current'
     weight: 30
   - name: Research Team
-    identifer: "team"
+    identifer: "Research Team"
     url: '#team'
     weight: 40
   - name: UO PhD students
-    identifier: "students"
+    identifier: "UO PhD students"
     url: "team/#students"
-    parent: "team"
+    parent: "Research Team"
     weight: 1
   - name: Affiliated PhD students
-    identifier: "affiliated"
+    identifier: "Affiliated PhD students"
     url: "team/#affiliated"
-    parent: "team"
+    parent: "Research Team"
     weight: 2
   - name: 2025 Applicants
     url: '#applicants'
-    weight: 41
+    weight: 45
   - name: Commitment to DEI
     url: '#dei'
     weight: 50
