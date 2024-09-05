@@ -15,7 +15,6 @@ main:
     identifer: "Research Team"
     pageRef: /team/oregon
     url: '#team'
-    parent: "Research Team"
     weight: 40
   - name: Affiliated PhD students
     identifier: "Affiliated PhD students"
