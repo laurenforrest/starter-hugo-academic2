@@ -13,21 +13,16 @@ main:
     weight: 30
   - name: Research Team
     identifer: "Research Team"
-    pageRef: team
-    url: '#team'
-    weight: 40
-  - name: UO PhD students and staff
-    identifier: "UO PhD students and staff"
     pageRef: /team/oregon
-    url: 'team/oregon'
+    url: '#team'
     parent: "Research Team"
-    weight: 1
+    weight: 40
   - name: Affiliated PhD students
     identifier: "Affiliated PhD students"
     pageRef: /team/affiliated
     url: 'team/affiliated'
     parent: "Research Team"
-    weight: 2
+    weight: 1
   - name: 2025 Applicants
     url: '#applicants'
     weight: 45

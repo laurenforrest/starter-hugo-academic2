@@ -76,7 +76,7 @@ sections:
         folders:
           - team
     design:
-      columns: '2'
+      columns: '1'
       view: masonry
 
 
