@@ -2,7 +2,7 @@
 title: Marley Billman Miller
 summary: Clinical psychology PhD student, Auburn University
 tags: 
-  - Affiliate
+  - Affiliates
 date: '2023-07-26T00:00:00Z'
 pager: true
 share: false

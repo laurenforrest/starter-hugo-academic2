@@ -68,8 +68,8 @@ sections:
           tag: '*'
         - name: UO team
           tag: UO team
-        - name: Affiliate
-          tag: Affiliate
+        - name: Affiliates
+          tag: Affiliates
       default_button_index: 0
       title: Research Team
       filters:
