@@ -17,14 +17,14 @@ main:
     weight: 40
   - identifier = "students"
     name: UO PhD students
-    url: "/tags/students"
+    url: "/students"
     parent: "team"
-    weight: 41
-  - identifier = "external"
+    weight: 1
+  - identifier = "affiliated"
     name: Affiliated PhD students
-    url: "/tags/external"
+    url: "/affiliated"
     parent: "team"
-    weight: 42
+    weight: 2
   - name: 2025 Applicants
     url: '#applicants'
     weight: 41
