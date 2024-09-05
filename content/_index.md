@@ -66,12 +66,10 @@ sections:
       #buttons:
       #  - name: All
       #    tag: '*'
-      #  - name: PhD students
-      #    tag: PhD students
-      #  - name: Staff
-      #    tag: Staff
-      #  - name: Alumni
-      #    tag: Alumni
+      #  - name: UO team
+      #    tag: UO team
+      #  - name: Affiliates
+      #    tag: Affiliates
       #default_button_index: 0
       title: Research Team
       filters:
