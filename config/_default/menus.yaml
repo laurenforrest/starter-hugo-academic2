@@ -12,8 +12,8 @@ main:
     url: '#current'
     weight: 30
   - name: Research Team
-    id: oregon
-    pageRef: oregon
+    id: team/oregon
+    pageRef: team/oregon
     url: '#team'
     weight: 40
   - name: 2025 Applicants
