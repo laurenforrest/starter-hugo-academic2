@@ -11,7 +11,7 @@ show_breadcrumb: false
 ---
 This list is not exhaustive, and sometimes “fit” is not entirely quantifiable (much to my chagrin). With those caveats aside, some general indicators of good fit are below. However, please note that my review process is holistic. Competitive applicants don't have to have all of the indicators below. If you have most of the below indicators, I'd encourage you to apply!
 
-**1.  You want a research career focused on eating disorders and/or suicide.** i.e., you want to publish papers, you want to be savyy with stats/methods, etc., and you want your expertise to be in eating disorders and/or suicide. {{< hl >}}This is a necessary criterion for competitive candidates.{{< /hl >}} If your interests are not primarily related to eating disorders or suicide, I will not have the necessary expertise to give you the graduate training and experience you need.
+**1.  You want a research career focused on eating disorders and/or suicide.** i.e., you want to publish papers, you want to be savyy with stats/methods, etc., and you want your expertise to be in eating disorders and/or suicide. {{< hl >}}This is a **necessary** criterion for competitive candidates.{{< /hl >}} If your interests are not primarily related to eating disorders or suicide, I will not have the necessary expertise to give you the graduate training and experience you need.
 
 **2.  You have relevant experience**. For example, you completed a senior thesis, worked as a post-bacc research coordinator, OR you have experience doing other things that required systematic adherence to a procedure or protocol (e.g., you did computer coding, you managed an extremely difficult scheduling system, etc.)
 
