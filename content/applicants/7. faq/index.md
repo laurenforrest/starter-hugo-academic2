@@ -20,7 +20,7 @@ share: false
 
 **5. How much do you care about publications?** Many if not all of the candidates I've historically invited to interview have at least one first-authored paper. However, I want to make clear that I don't really care about whether you've written or published a first-authored paper. {{< hl >}}I care about the experiences you've had that prepared you for doctoral-level study in a research-heavy environment.{{< /hl >}} Publications *can* be a way to document your preparation (and they're the most common indicator thus far), but they're not the only way.
 
-There are hundreds of details and decisions that go into completing a study and writing a manuscript. A  non-exhaustive list of these details includes things like:
+There are hundreds of details and decisions that go into completing a study and writing a manuscript. A non-exhaustive list of these details includes things like:
  - coordinating a study administratively (IRBs, progress reports)
  - managing participant progress through a study
  - collecting data (whether it's self-report, interviews, psychophys, salivary samples, etc. etc. etc.)
@@ -37,7 +37,7 @@ There are hundreds of details and decisions that go into completing a study and 
  - recognizing the strengths and limitations of your study/data
  - etc. etc. etc. (the list goes on)
  
-In the vein of showing vs. telling (see document #6 in this series), if you've had publications by the time of applying, please don't *just* tell me you've published X number of papers. {{< hl >}}I want you to also explain your experience with some of the above elements that go into writing a paper.{{< /hl >}} Did you come up with the study idea? If so, how? What motivated it? Were you involved in data cleaning/management and/or running analyses? What specifically did you do? Did you stumble during the process? How and where did you stumble? How did you recover from the stumble?
+In the vein of showing vs. telling (see document #6 in this series), if you've had publications by the time of applying, please don't *just* tell me you've published X number of papers. {{< hl >}}I want you to also explain your experience with some of the above elements that go into writing a paper.{{< /hl >}} Did you come up with the study idea? If so, how? What motivated it? Were you involved in data cleaning/management and/or running analyses? What specifically did you do? How and where did you stumble during the process? How did you recover from the stumbles?
 
 If you haven't had publications by the time of applying, please tell me about your experience with any/some of the above elements that go into writing a paper--even if they haven't culminated in you participating in or completing the paper-writing process yet.
 
@@ -57,7 +57,7 @@ Whether you have publications or not, {{< hl >}}I will be looking for students w
 
 - [List of **suicide**-focused clincial psychology PhD faculty](https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=881470888) (I don't know who to credit for this--if you know, please let me know so that I can update!)
 
-**9. Pro tip re. faculty rankings.** Some application portals, including UO's, ask applicants to rank order their faculty of interest. {{< hl >}}I typically only review materials of applicants who rank me as their #1 preference/professor of interest.{{< /hl >}} I do this because last year (my first year taking a student) there were ~100 applications with me ranked first. There were 50+ additional applications where I was ranked lower in folks' lists. 
+**9. Pro tip re. faculty rankings.** Some application portals, including UO's, ask applicants to rank order their faculty of interest. {{< hl >}}I only review materials of applicants who rank me as their #1 preference/professor of interest.{{< /hl >}} I do this because last year (my first year taking a student) there were ~100 applications with me ranked first. There were 50+ additional applications where I was ranked lower in folks' lists. 
 
 I review applications thoroughly. But I have only 2ish weeks to review all apps, complete preliminary interviews (if applicable), and invite selected candidates to interview. Given the number of applications and the time crunch to review apps, it is just not feasible for me to thoroughly review materials of the applicants who didn't rank me as their first preference. So, I recommend thinking critically about who you rank as your #1 preference. (And to be clear, ranking professors of interest is not personal and is not a popularity contest. Ranking is purely a tool to make sure applications get funneled to the right people.)
 

@@ -24,8 +24,11 @@ I want to be clear that having one’s own and/or family experience with mental 
 **Less effective:** 
 - "I'm applying to X professor because our research interests align."
 - "I'm applying to X lab because I'm passionate about Y topic." 
+- Any text that you've essentially copied/pasted from a lab's website.
 
-The examples above are less effective because they're essentially pre-requisites for someone applying to a given lab. I would expect that anyone who is applying to work with me is interested in and/or passionate about the topics I study. Therefore, answers like those above won't distinguish you from other applicants applying to the lab. These examples also don't show PIs how you (specifically) think. I would love for your statement of purpose to give me a preview of how you think, because I love chatting with, learning from, and working with people who think about things in unique ways, who think critically, who think systematically, who see things from angles I haven't considered, etc. 
+The examples above are less effective because they're essentially pre-requisites for someone applying to a given lab. Anyone who is applying to work with me is likely interested in and/or passionate about the topics I study. Therefore, answers like those above won't distinguish you from other applicants applying to the lab. 
+
+These examples also don't show PIs how you (specifically) think. They do not convey that you've thought critically and systematically about a given topic; thinking crticially and systematically are necessary to do good science (IMHO). Personally, I love chatting with, learning from, and working with people who think about things in unique ways, who think critically, who think systematically, and who see things from angles I haven't considered. So please show me evidence of your critical and systematic thought in your statement of purpose!
 
 **More effective:** Ask yourself some or all of the following questions. Your answers are things you may want to use to communicate a clear and distinguishing explanation for why you're applying to a specific lab. 
 - What types of specific questions or topics might you want to ask or study in this lab specifically? Why are these questions interesting? How are they innovative? What excites you about them?
