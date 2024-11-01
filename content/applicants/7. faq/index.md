@@ -57,6 +57,8 @@ Whether you have publications or not, {{< hl >}}I will be looking for students w
 
 - [List of **suicide**-focused clincial psychology PhD faculty](https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=881470888) (I don't know who to credit for this--if you know, please let me know so that I can update!)
 
+- [Resources for navigating psychological science grad programs as a student with marginalized identities](https://en.wikiversity.org/wiki/Helping_Give_Away_Psychological_Science/Marginalized_Survival_Kit:_Navigating_Academia_as_a_Marginalized_Student) (compiled by [Helping Give Away Psychological Science](https://www.hgaps.org))
+
 **9. Pro tip re. faculty rankings.** Some application portals, including UO's, ask applicants to rank order their faculty of interest. {{< hl >}}I only review materials of applicants who rank me as their #1 preference/professor of interest.{{< /hl >}} I do this because last year (my first year taking a student) there were ~100 applications with me ranked first. There were 50+ additional applications where I was ranked lower in folks' lists. 
 
 I review applications thoroughly. But I have only 2ish weeks to review all apps, complete preliminary interviews (if applicable), and invite selected candidates to interview. Given the number of applications and the time crunch to review apps, it is just not feasible for me to thoroughly review materials of the applicants who didn't rank me as their first preference. So, I recommend thinking critically about who you rank as your #1 preference. (And to be clear, ranking professors of interest is not personal and is not a popularity contest. Ranking is purely a tool to make sure applications get funneled to the right people.)
