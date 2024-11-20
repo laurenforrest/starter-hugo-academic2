@@ -12,4 +12,4 @@ Jax was born in April 2016. We adopted him in June 2017. Although Jax's pre-adop
 
 Jax loved eating food, shredding paper products (he especially loved paper towels), going on walks, scratching his back on grass, and being near his humans at all times. He passed in the comfort of his home, thanks to an unbelievably stellar veterinary team, and while enjoying the most prolonged belly rubs of his life. 
 
-Jax, you will always be our Jaxie, Jiggy, Gingy, GiGi boy. You were a very good boy. We love you, dude.
+Jax, you will always be our Jaxie, Jiggy, Gingy, GiGi boy. We love you, dude.
