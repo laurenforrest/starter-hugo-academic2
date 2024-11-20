@@ -182,9 +182,14 @@ sections:
     id: pets
     content:
       sort_ascending: true
+      buttons:
+        - name: Current crew
+          tag: Current crew
+        - name: In memoriam
+          tag: In memoriam
       default_button_index: 0
       title: Lab Pets
-      text: I am a proud mom to three senior pups. They are the loves of my life and a major source of my daily positive emotions. Click on the pictures to learn more about each pup. <br><br>I commit to regularly updating this page with students' pets, because who doesn't need more pictures of cute animals in their lives?!<br><br>
+      text: I am a proud mom to two senior pups. They are the loves of my life and a major source of my daily positive emotions. Click on the pictures to learn more about each pup. <br><br>I commit to regularly updating this page with students' pets, because who doesn't need more pictures of cute animals in their lives?!<br><br>
       filters:
         folders:
           - pets

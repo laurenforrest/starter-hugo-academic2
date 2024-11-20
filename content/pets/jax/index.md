@@ -1,10 +1,12 @@
 ---
 title: Jax 
-summary: My three-legged guy who has come so far
+summary: Our three-legged guy who came so far
 date: '2023-07-26T00:00:00Z'
 pager: true
 share: false
-
+tags: 
+  - In memoriam
 ---
 
-**Jax** (aka Jiggy) is an 8.5-year old hound-lab mix. Jax was 1.5 years old when we adopted him. His life pre-adoption was short but really rough, and destroyed his implicit trust in humans. Over 6 years of solid behavioral training with us, Jax still sometimes has intense anxiety and behavioral problems, but we have also built trust and safety. He loves our daily walks, loves to roll down hills (literally scooting himself down hills on his back, it's so funny), loves sleeping near his humans, and feels safe enough to seek out and enjoy some prolonged ear rubs. Huge milestones for this pup! 
+**Jax**
+On 11/18/24, we said goodbye to Jax. It was unfortunately but unequivocally his time to go. But that didn’t and doesn’t make it any harder to not have him physically with us. Jax’s goals in life were to feel safe and loved. We loved him dearly and protected him fiercely. He loved eating food, shredding paper paper products (he especially loved paper towels), going on walks, scratching his back on grass, and being near his humans at all times. He passed in the comfort of his home (thanks to an unbelievably stellar veterinary team) and while enjoying the most prolonged belly rubs of his life. He will always be our Jaxie, Jiggy, Gingy, GiGi boy. We love you, buddy.
