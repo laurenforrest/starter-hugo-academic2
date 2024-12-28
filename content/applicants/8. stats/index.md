@@ -2,7 +2,7 @@
 title: 8. Stats after my 2 years of reviewing PhD apps
 summary: Sharing data for transparency, not for intimidation
 tags: []
-date: '2024-12-27T00:00:00Z'
+date: '2023-07-29T00:00:00Z'
 pager: true
 show_breadcrumb: false
 share: false
