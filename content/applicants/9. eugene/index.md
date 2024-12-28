@@ -1,5 +1,5 @@
 ---
-title: 8. Life in Eugene, Oregon
+title: 9. Life in Eugene, Oregon
 summary: A preivew of what life in Eugene, OR is like
 tags: []
 date: '2023-07-31T00:00:00Z'
