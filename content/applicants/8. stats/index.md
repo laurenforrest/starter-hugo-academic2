@@ -20,10 +20,11 @@ If you fall short on some of these details but you've had other experiences that
 **Interest areas**
 - 30-50% of applicants are specifically interested in eating disorders
 - 30-50% are specifically interested in suicide
-- The remaining applicants either don't mention any specific research areas or are interested in LGBTQ+ mental health. (But remember that neither of these final scenarios bodes well for you in my application review. If you don't have specific research interests, you're unlikely to succeed in my lab. If you're only interested in LGBTQ+ mental health (without being specifically interested in suicide or eating disorders), my expertise will not match your training needs and therefore you won't be competitive for my lab, even if you're the most qualified candidate in the entire world.)
+- 15%ish of applicants are interested in LGBTQ+ mental health. However, remember that I am not an LGBTQ+ expert. I am VERY interested in taking students interested in suicide or eating disorders within LGBTQ+ populations. But if you're ONLY interested in LGBTQ+ health broadly defined, my expertise will not match your training needs.
+-The remaining proportion of applicants don't mention any specific research interests. People without specific research interests will rarely advance to advanced stages of application review.
 
 **Full-time research experience.**
-Most competitive applicants have had 2-3+ years of full-time research experience. 
+Most competitive applicants have had 2-3+ years of full-time research experience. Occasionally I have interviewed people wihout full-time research experience (i.e., still in undergrad). When I've interviewed candidates coming directly from undergrad, they had experiences that demonstrated truly exceptional and extraordinary tenacity and adaptability. 
 
 **First-author publications.**
 Most competitive applicants have at least one first-author manuscript in the final stages of preparation or already in the publication process. Several of the candidates I've invited to interview have 2+ first-author manuscripts either published or in the works. Remember that I don't care about publications per se, but they are thus far the most common metric to determine someone's preparation for a PhD in a research-intensive environment.
