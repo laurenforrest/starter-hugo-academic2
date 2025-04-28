@@ -16,7 +16,7 @@ main:
     pageRef: team/oregon
     url: '#team'
     weight: 40
-  - name: 2025 Applicants
+  - name: 2026 Applicants
     url: '#applicants'
     weight: 45
   - name: Commitment to DEI
