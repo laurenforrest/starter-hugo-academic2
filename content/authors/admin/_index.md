@@ -75,6 +75,6 @@ My lab works to answer questions like: Which groups, subgroups, and individual p
 Much of the lab’s current research is dedicated to studying suicide and eating disorders within the LGBTQIA+ community. LGBTQIA+ people have high rates of suicide and eating disorders, yet are rarely included in research studies. Not including LGBTQIA+ people in research studies means that there are major questions that need answered to better prevent and treat suicide and eating disorders in LGBTQIA+ people. The lab’s research works to answer these questions. We believe that more effective prevention and treatment of suicide and eating disorders in LGBTQIA+ people would contribute to more effective prevention and treatment of these problems for all people, regardless of their sexual orientation or gender identity.
 
 
-**I will NOT be reviewing clinical psychology PhD applications** for students interested in **eating disorders** and/or **suicide** for Fall 2026 admission. However, the [2026 Applicants]({{< relref "/#applicants" >}}) section contains info on applying to clinical psych PhD programs in general, which may be applicable beyond my lab. 
+**I will NOT be reviewing clinical psychology PhD applications** for Fall 2026 admission. However, the [2026 Applicants]({{< relref "/#applicants" >}}) section contains info on applying to clinical psych PhD programs in general, which may be applicable beyond my lab. 
 
 {style="text-align: justify;"}
