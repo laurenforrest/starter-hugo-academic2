@@ -154,7 +154,7 @@ sections:
           date_end: ''
           date_start: '2023-08-01'
           description: ''
-          organization:  Text PA to 741741
+          organization:  Text HOME to 741741
           organization_url: ''
           url: ''
         - title: 'Trevor Lifeline  (for LGBTQIA+ folks)'
