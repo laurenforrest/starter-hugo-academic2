@@ -12,7 +12,7 @@ view: 2
 
 image:
   caption: "Mike Newbry, Unsplash"
-  placement: 3
+  placement: 1
   focal_point: Smart
   preview_only: false
 
