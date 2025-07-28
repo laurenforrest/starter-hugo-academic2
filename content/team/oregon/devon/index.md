@@ -1,9 +1,9 @@
 ---
 title: Devon Peterkin, MA
-summary: Clinical psychology PhD student
+summary: PhD student
 tags: 
   - UO team
-date: '2024-09-04T00:00:00Z'
+date: '2025-07-28T00:00:00Z'
 pager: true
 share: false
 

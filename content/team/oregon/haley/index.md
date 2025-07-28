@@ -1,9 +1,9 @@
 ---
 title: Haley Henriksen, MA
-summary: Clinical psychology PhD student
+summary: PhD student
 tags: 
   - UO team
-date: '2025-09-04T00:00:00Z'
+date: '2025-07-24T00:00:00Z'
 pager: true
 share: false
 
