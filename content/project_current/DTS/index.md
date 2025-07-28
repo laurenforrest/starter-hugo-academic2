@@ -9,6 +9,7 @@ pager: true
 
 image:
   caption: "Mike Newbry, Unsplash"
+  focal_point: "Smart"
   preview_only: true
 
 ---
