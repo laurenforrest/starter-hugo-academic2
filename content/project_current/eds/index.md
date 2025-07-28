@@ -7,6 +7,7 @@ share: false
 show_breadcrumb: false
 pager: true
 profile: false
+view: 2
 
 image:
   caption: "Unsplash"
