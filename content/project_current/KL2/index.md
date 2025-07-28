@@ -8,7 +8,7 @@ show_breadcrumb: false
 pager: true
 
 image:
-  placement: 3
+  placement: 2
   caption: "Unsplash"
 
 ---
