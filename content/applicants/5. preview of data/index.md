@@ -6,6 +6,7 @@ date: '2023-07-26T00:00:00Z'
 pager: true
 show_breadcrumb: false
 share: false
+profile: false
 
 ---
 Conducting studies using previously-collected data is a great way to learn more analyses and get more experience with publishing. Granted, if you’re collecting data independently you have full control over the data, but this also takes so much time. There are lots of datasets out there that are publicly available or that I have connections to and could request access to the data for you. There are also datasets that will stem from in-progress studies that you’d have access to as a student.

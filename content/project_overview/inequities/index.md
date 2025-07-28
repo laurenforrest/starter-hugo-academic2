@@ -11,6 +11,7 @@ image:
 
 show_breadcrumb: false
 pager: true
+profile: false
 
 tags:
 - Suicide

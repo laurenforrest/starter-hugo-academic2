@@ -7,6 +7,7 @@ date: '2023-07-24T00:00:00Z'
 share: false
 show_breadcrumb: false
 pager: true
+profile: false
 
 tags:
 - Suicide

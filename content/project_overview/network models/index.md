@@ -10,6 +10,7 @@ pager: true
 tags:
 - Eating disorders
 - Quant
+profile: false
 
 image:
   caption: Forrest & Grilo (2022). Journal of Consulting and Clinical Psychology

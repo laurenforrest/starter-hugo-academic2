@@ -6,6 +6,7 @@ date: '2023-07-27T00:00:00Z'
 pager: true
 show_breadcrumb: false
 share: false
+profile: false
 
 ---
 

@@ -11,6 +11,7 @@ image:
 share: false
 show_breadcrumb: false
 pager: true
+profile: false
 
 
 ---

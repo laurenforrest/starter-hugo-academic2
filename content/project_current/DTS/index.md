@@ -6,6 +6,8 @@ date: '2025-07-25T00:00:00Z'
 share: false
 show_breadcrumb: false
 pager: true
+profile: false
+
 
 image:
   caption: "Mike Newbry, Unsplash"

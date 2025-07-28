@@ -10,6 +10,7 @@ pager: true
 image:
   caption: Forrest & Grilo (2020). Psychological Medicine
   focal_point: Smart
+profile: false
 
 tags:
 - Eating disorders
