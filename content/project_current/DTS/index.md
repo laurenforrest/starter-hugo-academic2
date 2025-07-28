@@ -12,7 +12,7 @@ profile: false
 image:
   caption: "Mike Newbry, Unsplash"
   focal_point: "Smart"
-  preview_only: true
+  preview_only: false
 
 ---
 Transgender, nonbinary, and gender diverse people (referred to below using the umbrella term of "trans") have always existed. For as long as major population-level surveillance has existed, trans people have also always had disproportionately high rates of suicidal thoughts and behaviors. But trans people are severely under-represented in the suicide literature, meaning that we don't understand nearly enough about the factors that contribute to trans people thinking about or attempting suicide.
