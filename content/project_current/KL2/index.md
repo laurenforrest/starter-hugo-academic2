@@ -8,8 +8,9 @@ show_breadcrumb: false
 pager: true
 
 image:
+  placement: 1
   caption: "Unsplash"
-  focal_point: Smart
+  focal_point: "TopLeft"
 
 ---
 This project asks how we can better predict suicidal thoughts and behaviors, particularly in groups who (1) are at elevated risk for suicide but (2) have been excluded from the vast majority of suicide research.
