@@ -7,12 +7,12 @@ share: false
 show_breadcrumb: false
 pager: true
 profile: false
-view: 1
+view: 2
 
 
 image:
   caption: "Mike Newbry, Unsplash"
-  focal_point: "Smart"
+  focal_point: Smart
   preview_only: false
 
 ---
