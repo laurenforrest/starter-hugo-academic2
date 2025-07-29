@@ -3,7 +3,7 @@ title: Systematic review of short-term predictors of suicidal thoughts and behav
 tags: []
 summary: This review summarizes the results of >140 studies investigating factors that predict suicidal thoughts and behaviors in the short-term. 
  
-date: '2023-07-28T00:00:00Z'
+date: '2023-07-27T00:00:00Z'
 show_breadcrumb: false
 pager: true
 profile: false

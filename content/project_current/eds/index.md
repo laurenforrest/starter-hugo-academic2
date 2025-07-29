@@ -2,7 +2,7 @@
 title: Advanced quantitative methods and eating disorders
 summary: Complex stats for complex eating disorder outcomes
 tags: []
-date: '2023-07-27T00:00:00Z'
+date: '2023-07-28T00:00:00Z'
 share: false
 show_breadcrumb: false
 pager: true
