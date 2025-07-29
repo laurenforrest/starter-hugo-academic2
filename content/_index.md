@@ -59,6 +59,9 @@ sections:
       view: masonry
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+      spacing:
+    # Customize the section spacing. Order is top, right, bottom, left
+        padding: ['0', '0', '0', '0']
 
   - block: portfolio
     id: team

@@ -14,7 +14,7 @@ pager: true
 profile: false
 design: 
   spacing:
-    # Customize the section spacing. Order is top, right, bottom, left.
+    # Customize the section spacing. Order is top, right, bottom, left; this doesn't really work though.
   padding: ['0', '0', '0', '0']
 
 
