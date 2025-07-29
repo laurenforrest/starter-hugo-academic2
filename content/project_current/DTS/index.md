@@ -2,7 +2,7 @@
 title: Momentary suicide risk processes in trans people
 summary: A study that shouldn't be political but is
 tags: []
-date: '2025-07-25T00:00:00Z'
+date: '2023-07-26T00:00:00Z'
 share: false
 show_breadcrumb: false
 pager: true
