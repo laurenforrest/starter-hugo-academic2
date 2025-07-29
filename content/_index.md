@@ -37,10 +37,10 @@ sections:
      
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: masonry
+      columns: '2'
+      view: showcase
       # For Showcase view, flip alternate rows? note to self: used to be in showcase view
-      flip_alt_rows: true
+      flip_alt_rows: false
 
   - block: portfolio
     id: current
