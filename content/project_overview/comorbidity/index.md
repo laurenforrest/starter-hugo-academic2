@@ -12,6 +12,10 @@ share: false
 show_breadcrumb: false
 pager: true
 profile: false
+design: 
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+  padding: ['10px', '0', '10px', '0']
 
 
 ---
