@@ -15,7 +15,7 @@ profile: false
 design: 
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left; this doesn't really work though.
-  padding: ['0', '0', '0', '0']
+    padding: ['0', '0', '0', '0']
 
 
 ---
