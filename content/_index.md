@@ -76,7 +76,7 @@ sections:
         folders:
           - team
     design:
-      columns: '1'
+      columns: '2'
       view: masonry
 
 
@@ -112,7 +112,7 @@ sections:
         folders:
           - dei
     design:
-      columns: '1'
+      columns: '2'
       view: list
 
   #- block: collection
@@ -194,7 +194,7 @@ sections:
         folders:
           - pets
     design:
-      columns: '1'
+      columns: '2'
       view: masonry
 
   - block: contact
@@ -206,7 +206,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: Lnf@uoregon.edu
     design:
-      columns: '1'
+      columns: '2'
       view: masonry
 
 
