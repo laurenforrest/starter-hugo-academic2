@@ -5,18 +5,18 @@
 
 main:
   
-  - name: Research Overview
+  - name: Research overview
     url: '#overview'
     weight: 20
-  - name: Current Projects
+  - name: Current projects
     url: '#current'
     weight: 30
-  - name: Research Team
+  - name: Research team
     id: team/oregon
     pageRef: team/oregon
     url: '#team'
     weight: 40
-  - name: 2026 Applicants
+  - name: 2026 applicants
     url: '#applicants'
     weight: 45
   - name: Commitment to DEI
@@ -25,7 +25,7 @@ main:
   - name: Resources
     url: '#resources'
     weight: 60
-  - name: Bonus Content - Lab Pets!
+  - name: Bonus content - lab pets!
     url: '#pets'
     weight: 70
   - name: CV
@@ -40,3 +40,4 @@ main:
 #  - name: CV
 #    url: uploads/resume.pdf
 #    weight: 70
+ 
