@@ -6,7 +6,7 @@ tags:
 - Suicide
 summary: Eating disorders & suicide, transdiagnostic approaches
 image:
-  caption: [Marc Sendra Martorell, Unsplash](https://unsplash.com/photos/closeup-photo-of-two-bubbles-2BrdNFxW0UY)
+  caption: Marc Sendra Martorell, Unsplash
   focal_point: Smart
 share: false
 show_breadcrumb: false
