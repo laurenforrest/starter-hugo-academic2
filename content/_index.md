@@ -70,6 +70,8 @@ sections:
           tag: UO team
         - name: Affiliates
           tag: Affiliates
+        - name: Advisory board
+          tag: Advisory board
         #- name: All
         #  tag: '*'
       default_button_index: 0
