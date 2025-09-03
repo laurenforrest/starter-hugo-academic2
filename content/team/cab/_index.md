@@ -1,5 +1,5 @@
 ---
-title: Affiliated PhD Students and Lab Alumni
+title: Community advisory board
 summary: []
 tags: []
 date: '2023-07-31T00:00:00Z'
