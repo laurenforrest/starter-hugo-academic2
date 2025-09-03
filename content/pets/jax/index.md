@@ -1,7 +1,7 @@
 ---
 title: Jax 
 summary: Our three-legged guy who came so far
-date: '2023-07-26T00:00:00Z'
+date: '2025-09-02T00:00:00Z'
 pager: true
 share: false
 profile: false
