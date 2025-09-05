@@ -1,6 +1,6 @@
 ---
 title: Echo 
-summary: Hilarious, diva-licious pitbull-bulldog mix
+summary: Divalicious pitbull-bulldog mix
 date: '2023-07-25T00:00:00Z'
 pager: true
 share: false
