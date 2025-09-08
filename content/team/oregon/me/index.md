@@ -10,7 +10,6 @@ profile: false
 
 ---
 
-**Professional bio**
 I study what makes people think about suicide, attempt suicide, and (segue) develop eating disorders. I hope that my research ultimately contributes to fewer people thinking about suicide, fewer people attempting suicide, and getting more people with eating disorders effective help and support. My work has been funded by the National Institutes of Health, the American Psychological Association, the Military Suicide Research Consortium, and the Academy for Eating Disorders. I've been lucky to have amazing academic mentors who (professionally) raised me and helped me grow into the scientist I am today. (Shout out to Doug Kondo, April Smith, and Emily Ansell :) 
 
 **Who I am as a human, outside of work**
