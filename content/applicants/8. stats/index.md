@@ -10,13 +10,14 @@ profile: false
 
 ---
 
-Getting accepted into a clinical psych PhD program is freaking hard. I've yet to learn of another type of program with a lower acceptance rate. In my two years of reviewing apps, I've received applications from a pool of extraordinarily talented and qualified candidates. There are far more talented applicants than I can interview or admit, so I have to make tough cuts. (And FWIW, I really feel for those applying. This process is seriously so competitive and hard.) I do not have hard and fast cutoffs for anything, but I'm providing the stats below to help you evaluate your competitiveness.
+Getting accepted into a clinical psych PhD program is hard. I've yet to learn of another type of program with a lower acceptance rate. In my two years of reviewing apps, I've received applications from a pool of extraordinarily talented and qualified candidates. There are far more talented applicants than I can interview or admit, so I have to make tough cuts. (And FWIW, I really feel for those applying. This process is seriously so competitive and hard.) I do not have hard and fast cutoffs for anything, but I'm providing the stats below to help you evaluate your competitiveness.
 
-If you fall short on some of these details but you've had other experiences that have substantially prepared you for a research-intensive degree, please describe in your statement of purpose what these experiences are and how they expanded your research skillset and readiness.
+If you fall short on some of these details but you've had other experiences that have substantially prepared you for a research-intensive degree, that's okay! Please describe in your statement of purpose what these substantially-preparing experiences are and how they expanded your research skillset and readiness.
 
 **Number of applications received for one available slot**
 - 2024 cycle: 84 --> acceptance rate = 1.19%
 - 2025 cycle: 130 --> acceptance rate = 0.77%
+I know these numbers are low and might be scary. But knowledge is power. If you are a stellar candidate and you don't get an offer, the non-offer probably has more to do with a broken system of each PI only being able to admit a single student per year than it does with you not being stellar enough. (Of course there are also some candidates who don't get offers because they need more time to develop research interests, have interests that I can't competently supervise, etc.)
 
 **Applicants' interest areas** (not mutually exclusive so %s sum to >100)
 - 30-50% of applicants are specifically interested in eating disorders
@@ -25,7 +26,7 @@ If you fall short on some of these details but you've had other experiences that
 - The remaining proportion of applicants don't mention any specific research interests. People without specific research interests will not advance in my application review.
 
 **Full-time research experience.**
-Most competitive applicants have had 2-3+ years of {{< hl >}}full-time {{< /hl >}}research experience. Occasionally I have interviewed people wihout full-time research experience (i.e., still completing their undergraduate degree). When I've interviewed candidates still completing their undergraduate education, they had experiences that demonstrated truly exceptional and extraordinary tenacity and adaptability. 
+Most competitive applicants have had 2-3+ years of {{< hl >}}full-time {{< /hl >}}research experience. Occasionally I have interviewed people still completing their undergraduate degree. When I've interviewed candidates still completing their undergraduate education, they had experiences that demonstrated truly exceptional and extraordinary tenacity and adaptability. 
 
 **First-author publications.**
 Most competitive applicants have at least one first-author manuscript in the final stages of preparation or already in the publication process. Several of the candidates I've invited to interview have 2+ first-author manuscripts either published or in the works. Remember that I don't care about publications per se, but they are thus far the most common metric to determine someone's preparation for a PhD in a research-intensive environment.

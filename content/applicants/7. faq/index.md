@@ -11,9 +11,9 @@ profile: false
 ---
 
 
-**1. Will you be reviewing applications for a student to begin Fall 2026?** No.
+**1. Will you be reviewing applications for a student to begin Fall 2027?** Yep.
 
-**2. Should I email you to express interest in applying to your lab?** During cycles when I am accpeting a student, you **do not** need to email me just to let me know you're applying to my lab. Those emails can be stressful for you to send but won't have an impact on how I review your application. Save yourself the stress. However, if you have questions that would determine whether you'd like to apply and that weren't answered elsewhere on my website, feel free to reach out to me and/or my current/previous mentees.
+**2. Should I email you to express interest in applying to your lab?** You **do not** need to email me just to let me know you're applying to my lab. Those emails can be stressful for you to send but won't have an impact on how I review your application. Save yourself the stress. However, if you have questions that would determine whether you'd like to apply and that weren't answered elsewhere on my website, feel free to reach out to me and/or my current/previous mentees.
 
 **3. Can we set up a Zoom meeting?** No. I do not schedule meetings with candidates before applications are due. (If we run into each other at a conference, that's different.) I understand that meeting could provide applicants with better info on fit and what I'm like as a mentor and human. But it's important to me that I review all application materials as fairly as possible, starting from as close to the same baseline for all applicants as possible. Plus, I just can't accommodate the number of meeting requests I receive. If I were to meet with candidates who request meetings, I would have much less time to write papers and apply for grants. Me publishing less and applying for fewer grants could lead to me having fewer opportunities for future grad students. So me not meeting with applicants promotes me being the most effective mentor I can be to my current and future students.
 
@@ -56,11 +56,11 @@ Whether you have publications or not, {{< hl >}}I will be looking for students w
 
 - [List of **eating disorder**-focused clinical psychology PhD faculty](https://docs.google.com/spreadsheets/d/11U16wGt3PL8nJlEF3xfipsL64pAMGwMhuB26yH-JmYY/edit?pli=1#gid=0) (compiled by the Academy for Eating Disorders Early Career SIG)
 
-- [List of **suicide**-focused clincial psychology PhD faculty](https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=881470888) (I don't know who to credit for this--if you know, please let me know so that I can update!)
+- [List of **suicide**-focused clincial psychology PhD faculty](https://docs.google.com/spreadsheets/d/1pFkelS0l678qHVlEmLMwFcDo8k_5dP3MNYY5Ju_e_7Y/edit#gid=881470888) (I don't know who to credit for this)
 
 - [Resources for navigating psychological science grad programs as a student with marginalized identities](https://en.wikiversity.org/wiki/Helping_Give_Away_Psychological_Science/Marginalized_Survival_Kit:_Navigating_Academia_as_a_Marginalized_Student) (compiled by [Helping Give Away Psychological Science](https://www.hgaps.org))
 
-**9. Pro tip re. faculty rankings.** Some application portals, including UO's, ask applicants to rank order their faculty of interest. {{< hl >}}I only review materials of applicants who rank me as their #1 preference/professor of interest.{{< /hl >}} I do this because last year (my first year taking a student) there were ~100 applications with me ranked first. There were 50+ additional applications where I was ranked lower in folks' lists. 
+**9. Pro tip re. faculty rankings.** Some application portals, including UO's, ask applicants to rank order their faculty of interest. {{< hl >}}I only review materials of applicants who rank me as their #1 preference/professor of interest.{{< /hl >}} I do this because in my two years of accepting students, I've received ~100 applications with me ranked first. There were 50+ additional applications where I was ranked lower in folks' lists. 
 
 I review applications thoroughly. But I have only 2ish weeks to review all apps, complete preliminary interviews (if applicable), and invite selected candidates to interview. Given the number of applications and the time crunch to review apps, it is just not feasible for me to thoroughly review materials of the applicants who didn't rank me as their first preference. So, I recommend thinking critically about who you rank as your #1 preference. (And to be clear, ranking professors of interest is not personal and is not a popularity contest. Ranking is purely a tool to make sure applications get funneled to the right people.)
 
