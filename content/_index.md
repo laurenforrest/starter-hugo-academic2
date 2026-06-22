@@ -87,8 +87,8 @@ sections:
   - block: portfolio
     id: applicants
     content:
-      title: 2026 Applicants
-      subtitle: <br><br>**I am NOT accepting a clinical psychology PhD student** to begin at the [University of Oregon](https://naturalsciences.uoregon.edu/psychology) in **Fall 2026** (meaning I will not review applications that are submitted 12/2025).
+      title: 2027 Applicants
+      subtitle: <br><br>**I am accepting a clinical psychology PhD student** to begin at the [University of Oregon](https://naturalsciences.uoregon.edu/psychology) in **Fall 2027** (meaning I will review applications that are submitted 11/2026).
       text: This section contains important info for prospective students potentially interested in joning the lab. Start at the bottom and work your way up. For information on the University of Oregon's APA- and PCSAS-accredited clinical psychology PhD program, click [here](https://psychology.uoregon.edu/research/clinical-area).<br><br> Best of luck with the application process, and I genuinely look forward to reviewing your application! <br><br>
   
       filters:
