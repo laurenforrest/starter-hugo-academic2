@@ -1,6 +1,6 @@
 ---
-title: Echo Forrest
-summary: Divalicious pitbull-bulldog mix
+title: Echo
+summary: Lauren's divalicious pitbull-bulldog mix
 date: '2023-07-25T00:00:00Z'
 pager: true
 share: false
@@ -11,4 +11,4 @@ tags:
 
 ---
 
-**Echo** (aka Eggie) is Lauren's 13-year old pitbull-bull dog mix. (Or, said more accuratley from Echo's perspective, Lauren is Echo's human.) He's loving, gentle, and a complete diva. He insists on being tucked in at night with the softest, plushest blankets. He loves snuggling and laying his entire body on top of his humans. He regularly huffs at me if I'm not catering to his needs in that moment. He is truly hilarious.
+**Echo** (aka Eggie) is a 13-year old pitbull-bull dog mix. He's loving, gentle, and a complete diva. He insists on being tucked in at night with the softest, plushest blankets. He loves snuggling and laying his entire body on top of his humans. He regularly huffs at me if I'm not catering to his needs in that moment. He is truly hilarious.
