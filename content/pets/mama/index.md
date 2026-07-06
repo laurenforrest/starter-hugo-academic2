@@ -1,6 +1,6 @@
 ---
 title: Mama
-summary: Cassidy's cat
+summary: Cassidy's sweet and cuddly cat
 date: '2026-07-06T00:00:00Z'
 pager: true
 share: false
@@ -11,4 +11,4 @@ tags:
 
 ---
 
-Mama is Cassidy's cat. Bio coming soon!
+Bio coming soon!
