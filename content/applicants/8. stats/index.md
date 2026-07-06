@@ -17,7 +17,7 @@ If you fall short on some of these details but you've had other experiences that
 **Number of applications received for one available slot**
 - 2024 cycle: 84 --> acceptance rate = 1.19%
 - 2025 cycle: 130 --> acceptance rate = 0.77% (but I ended up taking 2 students so technically the acceptance rate was 1.54%)
--I know these numbers are low and might be scary. But knowledge is power. If you are a stellar candidate and you don't get an offer, the non-offer probably has more to do with the system of each PI only being able to admit only 1-2 students per year than it does with you not being stellar enough. (Of course there are also some candidates who don't get offers because they need more time to develop research interests, have interests that I can't competently supervise, etc.)
+- I know these numbers are low and might be scary. But knowledge is power. If you are a stellar candidate and you don't get an offer, the non-offer probably has more to do with the system of each PI only being able to admit only 1-2 students per year than it does with you not being stellar enough. (Of course there are also some candidates who don't get offers because they need more time to develop research interests, have interests that I can't competently supervise, etc.)
 
 **Applicants' interest areas** (not mutually exclusive so %s sum to >100)
 - 30-50% of applicants are specifically interested in eating disorders
