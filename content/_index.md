@@ -68,7 +68,7 @@ sections:
       buttons:
         - name: Key personnel
           tag: UO team
-        - name: Study staff
+        - name: Research assistants
           tag: Study staff
         - name: Affiliates
           tag: Affiliates
