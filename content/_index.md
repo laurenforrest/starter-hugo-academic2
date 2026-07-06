@@ -195,7 +195,7 @@ sections:
           tag: In memoriam
       default_button_index: 0
       title: Lab Pets
-      text: I am a proud mom to three pups. They are the loves of my life and a major source of my daily positive emotions. Click on the pictures to learn more about each pup. <br><br>I commit to regularly updating this page with students' pets, because who doesn't need more pictures of cute animals in their lives?!<br><br>
+      text: I am a proud mom to three pups. They are the loves of my life and a major source of my daily positive emotions. Some of our team members are also proud pet parents. To learn more about each creature who supports our team's wellbeing, click on each photo below. <br><br>
       filters:
         folders:
           - pets
