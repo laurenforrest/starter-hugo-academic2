@@ -1,6 +1,6 @@
 ---
 title: Lila
-summary: Lauren's joyful and exuberant pitbull mix
+summary: Lauren's joyful and exuberant pittie
 date: '2025-09-01T00:00:00Z'
 pager: true
 share: false
