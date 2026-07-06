@@ -66,8 +66,10 @@ sections:
     content:
       sort_ascending: true
       buttons:
-        - name: UO team
+        - name: Key personnel
           tag: UO team
+        - name: Study staff
+          tag: Study staff
         - name: Affiliates
           tag: Affiliates
         - name: Advisory board
