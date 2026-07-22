@@ -10,3 +10,4 @@ profile: false
 
 ---
 
+Makayla (Kayla) is a junior at the University of Oregon, studying Psychology in the hopes of becoming a therapist. In her free time, she likes to play video games, make digital art, and go swimming. 
