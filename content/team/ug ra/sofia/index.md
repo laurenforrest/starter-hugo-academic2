@@ -1,6 +1,6 @@
 ---
 title: Sofia Drake
-summary: 
+summary: Undergraduate research assistant
 tags: 
   - Study staff
 date: '2025-07-28T00:00:00Z'
