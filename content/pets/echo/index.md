@@ -11,9 +11,11 @@ tags:
 
 ---
 
-Echo was the most special creature I’ve ever met. He blessed his humans with 13 beautiful years of friendship, diva-ness, and love. He was a perfect, precious, hilarious boy. Echo met his first human (Kenny) when he was only six weeks old. Echo was so small that his entire body fit in Kenny's hand. Kenny and Echo were a dynamic duo for two years. Then Mac and I (Lauren) hit the scene. The two duos then became a quartet. (And later a quintet.)
+Echo was the most special creature I’ve ever met. He blessed his humans with 13 beautiful years of friendship, diva-ness, and love. He was a perfect, precious, hilarious boy. 
 
-Echo was adorable, aesthetically. But the most special thing about him was his divalicious personality. For example, he would huff at us to move his bed to keep in line with the sun path. He needed to continuously feel the sun on his beautiful body! When dragging his bed from location 1 to location 2, he wouldn’t move a muscle. He just directed his humans on what he wanted and was satisfied when their job was done. He loved sleeping on his back with his limbs splayed or sleeping on the back of the couch. While sleeping, he loved being covered up with the plushest, softest blankets. If while repositioning himself he got uncovered, he would huff at us to let us know that he required covering up again. He also loved treating humans as his personal pillows. For the rest of my life, I will miss having him lay his entire body on my lap or wedging himself beside me while I’m laying down.
+Echo met his first human (Kenny) when he was only six weeks old. Echo was so small that his entire body fit in Kenny's hand. Kenny and Echo were a dynamic duo for two years. Then Mac and I (Lauren) hit the scene. The two duos then became a quartet. (And later a quintet.)
+
+Echo was adorable, aesthetically. But the most special thing about him was his divalicious personality. For example, he would huff at us to move his bed to keep in line with the sun path. He needed to continuously feel the sun on his beautiful body! When dragging his bed from location 1 to location 2, he wouldn’t move a muscle. He just directed his humans on what he wanted and was satisfied when their job was done. He loved sleeping on his back with his limbs splayed, and also loved sleeping on the back of any couch he encountered. While sleeping, he loved being covered up with the plushest, softest blankets. If while repositioning himself he got uncovered, he would huff at us to let us know that he required covering up again. He also loved treating humans as his personal pillows. For the rest of my life, I will miss having him lay his entire body on my lap or wedging himself beside me while I’m laying down.
 
 Echo was extremely athletic and loved swimming, chasing tennis balls while at the ocean, and playing on his spring pole. The sounds he would make while playing on the spring pole were freaky—somewhere between a scream, cry, and moan—but signaled pure elation. During his younger years, he also had some sick skateboarding skills. He discontinued his skateboarding pursuits when he grew too muscular and thick for his board. When he wasn’t being an athletic freak, he was very content to lounge around and be catered to. 
 
@@ -23,4 +25,4 @@ To brag on Echo even more, he was a well-travled soul. He lived in five states a
 
 Echo passed in the most peaceful way imaginable, on 7/30/2026. He was laying on his favorite blanket, in his favorite sunbathing spot in his backyard, with the sun shining right on him. He was surrounded by his two adoring humans and his loving brother, Mac. 
 
-Echo, I’ll love you forever and ever. Rest easy, my boy.
+Echo, I’ll love you forever. Rest easy, my boy.
