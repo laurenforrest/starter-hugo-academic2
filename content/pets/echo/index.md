@@ -21,7 +21,7 @@ Echo was extremely athletic and loved swimming, chasing tennis balls while at th
 
 Echo had two adoring humans and many other meaningful relationships. For instance, he spent the first several years of his life in close contact with his similarly-athletically-freakish brother, Indo. They loved playing together and were a seriously rambunctious duo. When Echo wasn’t playing with Indo, he had a life-changing impact on his dog-friend, Bear, whom he met while playing at an Oxford, Ohio dog park. Echo then gained a brother, named Mac, who was aesthetically and personality-wise the exact inverse of Echo, but they paired beautifully. Echo was the yin to Mac’s yang. Over the next 11 years, Mac and Echo could often be found snuggling in the same dog bed or resting their heads on one another. Echo had two other dog siblings: Jax, whom he knew for 8 years, and Lila, whom he knew for the last year of his life. On top of his dog friends and siblings, Echo made literally hundreds of human friends. He was so freaking adorable and so freaking nice and fun that people just flocked to him. To meet Echo was to fall in love with Echo.
 
-To brag on Echo even more, he was a well-travled soul. He lived in five states and swam in both the Atlantic Ocean and the Pacific Ocean.
+To brag on Echo even more, he was a well-traveled soul. He lived in five states and swam in both the Atlantic Ocean and the Pacific Ocean.
 
 Echo passed in the most peaceful way imaginable, on 7/30/2026. He was laying on his favorite blanket, in his favorite sunbathing spot in his backyard, with the sun shining right on him. He was surrounded by his two adoring humans and his loving brother, Mac. 
 
